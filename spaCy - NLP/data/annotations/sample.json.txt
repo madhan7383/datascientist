@@ -1,0 +1,10 @@
+{
+  "text": "John Doe, a Software Engineer at Acme Corp., can be reached at johndoe@acme.com or +1-800-555-1234.",
+  "entities": [
+    {"start": 0, "end": 8, "label": "PERSON"},
+    {"start": 22, "end": 39, "label": "JOB_TITLE"},
+    {"start": 43, "end": 53, "label": "ORG"},
+    {"start": 60, "end": 77, "label": "EMAIL"},
+    {"start": 82, "end": 98, "label": "PHONE"}
+  ]
+}
